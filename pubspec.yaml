@@ -77,6 +77,7 @@ flutter:
     - assets/images/yeji/yeji1.jpg
     - assets/images/yeji/yeji2.jpg
     - assets/images/yeji/yeji3.jpg
+    - assets/images/yeji/yeji4.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

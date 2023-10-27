@@ -13,7 +13,7 @@ class YejiPage extends StatelessWidget {
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 2,
         ),
-        itemCount: 3, // Batasi jumlah gambar
+        itemCount: 4, // Batasi jumlah gambar
         itemBuilder: (context, index) {
           return Container(
         padding: const EdgeInsets.only(top: 20, bottom: 10), // Atur jarak antara atas dan bawah di sini
